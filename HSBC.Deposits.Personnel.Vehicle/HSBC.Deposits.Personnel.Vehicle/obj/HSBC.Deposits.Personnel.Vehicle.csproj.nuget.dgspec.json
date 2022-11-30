@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c sharp devops practice\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle.csproj": {}
+    "D:\\c sharp devops practice\\testing\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle.csproj": {}
   },
   "projects": {
-    "D:\\c sharp devops practice\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle.csproj": {
+    "D:\\c sharp devops practice\\testing\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c sharp devops practice\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle.csproj",
+        "projectUniqueName": "D:\\c sharp devops practice\\testing\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle.csproj",
         "projectName": "HSBC.Deposits.Personnel.Vehicle",
-        "projectPath": "D:\\c sharp devops practice\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle.csproj",
+        "projectPath": "D:\\c sharp devops practice\\testing\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle.csproj",
         "packagesPath": "C:\\Users\\venka\\.nuget\\packages\\",
-        "outputPath": "D:\\c sharp devops practice\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle\\obj\\",
+        "outputPath": "D:\\c sharp devops practice\\testing\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

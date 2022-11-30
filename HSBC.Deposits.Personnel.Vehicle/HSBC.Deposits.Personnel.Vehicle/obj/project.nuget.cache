@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OiagO8edZMx4gIv4mYJdM0oSgH52g9zujbVJ42PLyaAWU8VjuxFHrdw/EcEzGjaKzQwDrhtBd1ufMCThRsUEXw==",
+  "dgSpecHash": "gZ7xucJI33IDZ/PsXks0q5EYSbO3MdZI6eJOs70AM8ssOOADUO2P8o9SO5nTSDsTgFJ1N4VYVT0F7w3zUqQfrQ==",
   "success": true,
-  "projectFilePath": "D:\\c sharp devops practice\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle.csproj",
+  "projectFilePath": "D:\\c sharp devops practice\\testing\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\venka\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\venka\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

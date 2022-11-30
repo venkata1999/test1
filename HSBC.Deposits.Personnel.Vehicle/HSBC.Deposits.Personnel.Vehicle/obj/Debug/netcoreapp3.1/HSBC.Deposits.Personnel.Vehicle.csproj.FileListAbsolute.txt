@@ -1,0 +1,114 @@
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\appsettings.json
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.exe
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.deps.json
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.runtimeconfig.json
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.runtimeconfig.dev.json
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.dll
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.pdb
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.csprojAssemblyReference.cache
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.AssemblyInfoInputs.cache
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.AssemblyInfo.cs
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.csproj.CoreCompileInputs.cache
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.MvcApplicationPartsAssemblyInfo.cache
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\staticwebassets\HSBC.Deposits.Personnel.Vehicle.StaticWebAssets.Manifest.cache
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\staticwebassets\HSBC.Deposits.Personnel.Vehicle.StaticWebAssets.xml
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\scopedcss\bundle\HSBC.Deposits.Personnel.Vehicle.styles.css
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.RazorTargetAssemblyInfo.cache
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.dll
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.pdb
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.genruntimeconfig.cache
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.MvcApplicationPartsAssemblyInfo.cs
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.csproj.CopyComplete
+D:\HSBC\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.exe
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.deps.json
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.runtimeconfig.json
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.runtimeconfig.dev.json
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.dll
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.pdb
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.csprojAssemblyReference.cache
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.AssemblyInfoInputs.cache
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.AssemblyInfo.cs
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.csproj.CoreCompileInputs.cache
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.MvcApplicationPartsAssemblyInfo.cs
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.MvcApplicationPartsAssemblyInfo.cache
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\staticwebassets\HSBC.Deposits.Personnel.Vehicle.StaticWebAssets.Manifest.cache
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\staticwebassets\HSBC.Deposits.Personnel.Vehicle.StaticWebAssets.xml
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\scopedcss\bundle\HSBC.Deposits.Personnel.Vehicle.styles.css
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.RazorTargetAssemblyInfo.cache
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.csproj.CopyComplete
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.dll
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.pdb
+D:\Example1\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.genruntimeconfig.cache
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\appsettings.json
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.exe
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.deps.json
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.runtimeconfig.json
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.runtimeconfig.dev.json
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.dll
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.pdb
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.csproj.AssemblyReference.cache
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.AssemblyInfoInputs.cache
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.AssemblyInfo.cs
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.csproj.CoreCompileInputs.cache
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.MvcApplicationPartsAssemblyInfo.cs
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.MvcApplicationPartsAssemblyInfo.cache
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\staticwebassets\HSBC.Deposits.Personnel.Vehicle.StaticWebAssets.Manifest.cache
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\staticwebassets\HSBC.Deposits.Personnel.Vehicle.StaticWebAssets.xml
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\scopedcss\bundle\HSBC.Deposits.Personnel.Vehicle.styles.css
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.RazorTargetAssemblyInfo.cache
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.csproj.CopyComplete
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.dll
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.pdb
+D:\c sharp devops practice\chapter2000\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.genruntimeconfig.cache
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\appsettings.json
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.exe
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.deps.json
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.runtimeconfig.json
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.runtimeconfig.dev.json
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.dll
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.pdb
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.csproj.AssemblyReference.cache
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.AssemblyInfoInputs.cache
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.AssemblyInfo.cs
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.csproj.CoreCompileInputs.cache
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.MvcApplicationPartsAssemblyInfo.cs
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.MvcApplicationPartsAssemblyInfo.cache
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\staticwebassets\HSBC.Deposits.Personnel.Vehicle.StaticWebAssets.Manifest.cache
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\staticwebassets\HSBC.Deposits.Personnel.Vehicle.StaticWebAssets.xml
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\scopedcss\bundle\HSBC.Deposits.Personnel.Vehicle.styles.css
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.RazorTargetAssemblyInfo.cache
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.csproj.CopyComplete
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.dll
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.pdb
+D:\c sharp devops practice\HSBC.Deposits.Personnel.Vehicle\HSBC.Deposits.Personnel.Vehicle\obj\Debug\netcoreapp3.1\HSBC.Deposits.Personnel.Vehicle.genruntimeconfig.cache
